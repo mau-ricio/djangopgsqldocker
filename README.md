@@ -1,0 +1,1 @@
+# Este é um projeto teste de criação de ambiente de desenvolvimento django + pgsql com docker
